@@ -1,0 +1,9 @@
+2021/04/28 02:55:39 [emerg] 1#1: host not found in upstream "laravel-phpfpm:9000" in /etc/nginx/conf.d/upstream.conf:1
+2021/04/28 02:55:40 [emerg] 1#1: host not found in upstream "laravel-phpfpm:9000" in /etc/nginx/conf.d/upstream.conf:1
+2021/04/28 02:55:42 [emerg] 1#1: host not found in upstream "laravel-phpfpm:9000" in /etc/nginx/conf.d/upstream.conf:1
+2021/04/28 02:55:43 [emerg] 1#1: host not found in upstream "laravel-phpfpm:9000" in /etc/nginx/conf.d/upstream.conf:1
+2021/04/28 02:55:44 [emerg] 1#1: host not found in upstream "laravel-phpfpm:9000" in /etc/nginx/conf.d/upstream.conf:1
+2021/04/28 02:55:46 [emerg] 1#1: host not found in upstream "laravel-phpfpm:9000" in /etc/nginx/conf.d/upstream.conf:1
+2021/04/28 02:55:50 [emerg] 1#1: host not found in upstream "laravel-phpfpm:9000" in /etc/nginx/conf.d/upstream.conf:1
+2021/04/28 02:55:57 [emerg] 1#1: host not found in upstream "laravel-phpfpm:9000" in /etc/nginx/conf.d/upstream.conf:1
+2021/04/28 02:56:11 [emerg] 1#1: host not found in upstream "laravel-phpfpm:9000" in /etc/nginx/conf.d/upstream.conf:1
