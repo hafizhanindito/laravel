@@ -78,9 +78,11 @@ COPY ./ ${WORKDIR}
 
 WORKDIR ${WORKDIR}
 
-RUN composer install \
-    && php artisan key:generate
+RUN composer install
+    # && php artisan key:generate
 
 
-RUN npm install \
-    && npm run dev
+RUN npm install
+    # && npm run dev
+
+ENTRYPOINT [ "./start.sh" ]
